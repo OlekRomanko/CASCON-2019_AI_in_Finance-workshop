@@ -52,7 +52,9 @@ Oleksandr Romanko<br/>
 
 Wednesday, November 6 | 13:00 - 14:45 | Primrose
 
-Part 1 of the workshop comprised of four 25-minute talks by distinguished researchers from industry and academia. The speakers were Oleksandr Romanko (IBM Canada), Giorgio Costa (University of Toronto), Hassan Anis (University of Toronto).
+Part 1 of the workshop comprised of four 25-minute talks by distinguished researchers from industry and academia. The speakers are Oleksandr Romanko (IBM Canada), Giorgio Costa (University of Toronto), Hassan Anis (University of Toronto).
+
+[Workshop Part 1 schedule](https://github.com/OlekRomanko/CASCON-2019_AI_in_Finance-workshop/Workshop-Part1.md)
 
 <p>&nbsp;</p>
 
