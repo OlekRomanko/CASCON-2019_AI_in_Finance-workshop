@@ -7,17 +7,21 @@ Wednesday, November 6 | 13:00 - 14:45 | Primrose
 <p>&nbsp;</p>
 
 
-## Presentation 1 - 13:00-13:25
+### Presentation 1 - 13:00-13:25
 
-**Title**: Overview of Financial Modeling
+**Title**: Scenario-Based Financial Risk Modeling and Optimization
+
+**Presenter**: Oleksandr Romanko, Senior Research Analyst, Watson Financial Services, IBM
+
+**Abstract**: Simulation and optimization algorithms are used in quantitative finance and risk management to model, evaluate, hedge and optimally re-balance portfolios of financial assets. The primary goal of simulation is to model uncertainty in asset values over time. Optimization techniques help to minimize risk and maximize performance of financial portfolios. As the result, a common feature of financial and risk management optimization problems is presence of multiple performance indicators (profit, return on investment, trading costs, tracking error) and risk measures (volatility of investment returns, portfolio expected shortfall, Value-at-Risk, etc.). All illustrative examples that we discuss are based on portfolio selection and risk management models that were developed at IBM Watson Financial Services and are aimed for practical implementation and use by risk managers at different financial institutions and industrial enterprises using Financial Risk APIs on IBM Cloud.
+
+### Presentation 2 - 13:25-13:50
+
+**Title**: Artificial Intelligence-Driven Financial Risk Analytics and Portfolio Optimization
 
 **Presenter**: Oleksandr Romanko, Senior Research Analyst, Watson Financial Services, IBM
 
-## Presentation 2 - 13:25-13:50
-
-**Title**: Artificial Intelligence Enhancements to Financial Modeling
-
-**Presenter**: Oleksandr Romanko, Senior Research Analyst, Watson Financial Services, IBM
+**Abstract**: Simulation and optimization algorithms are used in quantitative finance and risk management to model, evaluate, hedge and optimally re-balance portfolios of financial assets. As performance, numerical stability and practical applicability of simulation and optimization algorithms still remain a challenge in financial modeling, we look at machine learning practice to improve the accuracy of financial modeling. Moreover, we investigate how we can enhance formulating financial modeling and optimization problems with Artificial Intelligence algorithms such as Natural Language Processing and Neural Nets. Natural language understanding algorithms for portfolio stress-testing and for financial optimization problems such as sentiment analysis and chat-bots will be discussed and demonstrated using Financial Risk APIs and Watson AI APIs on IBM Cloud.
 
 ### Presentation 3 - 13:50-14:15
 

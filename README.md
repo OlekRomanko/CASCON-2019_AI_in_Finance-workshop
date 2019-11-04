@@ -54,7 +54,7 @@ Wednesday, November 6 | 13:00 - 14:45 | Primrose
 
 Part 1 of the workshop comprised of four 25-minute talks by distinguished researchers from industry and academia. The speakers are Oleksandr Romanko (IBM Canada), Giorgio Costa (University of Toronto), Hassan Anis (University of Toronto).
 
-[Workshop Part 1 schedule](https://github.com/OlekRomanko/CASCON-2019_AI_in_Finance-workshop/Workshop-Part1.md)
+[Workshop Part 1 schedule](https://github.com/OlekRomanko/CASCON-2019_AI_in_Finance-workshop/blob/master/Workshop-Part1.md)
 
 <p>&nbsp;</p>
 
@@ -64,3 +64,5 @@ Part 1 of the workshop comprised of four 25-minute talks by distinguished resear
 Wednesday, November 6 | 15:15 - 17:00 | Primrose
 
 Part 2 of the workshop included hands-on and demos in Python of solving practical financial and risk analytics problems (attendees can run those on their laptops via IBM Cloud). You will use Financial Analytics services on IBM Cloud to do financial portfolio modeling and Watson AI services on IBM Cloud to emhance your financial models. Please run provided Python notebooks in IBM Watson Studio.
+
+[Workshop Part 2 overview](https://github.com/OlekRomanko/CASCON-2019_AI_in_Finance-workshop/blob/master/Workshop-Part2.md)
