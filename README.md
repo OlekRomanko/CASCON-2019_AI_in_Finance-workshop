@@ -1,9 +1,5 @@
 # CASCON 2019 AI in Finance workshop
 
-
-
-# CASCON 2019 AI in Finance workshop
-
 Workshop on Risk Analytics and AI in Finance at IBM CASCON 2019 Conference. You will learn how to perform risk analytics and financial modeling with IBM Cloud services and how to enhance financial models with Watson AI services on IBM Cloud.
 
 <p>&nbsp;</p>
