@@ -38,4 +38,31 @@ and slides that supplement examples in Python notebooks can be found at <a href=
 </li>
 </ul>
 
+## Obtain your own API Keys for the following IBM Cloud microservices
+
+<ul>
+<li>
+<p><a href="https://cloud.ibm.com/catalog/services/portfolio-optimization">IBM Algo Portfolio Optimization</a> (IBM Financial Risk API)</p>
+</li>
+<li>
+<p><a href="https://cloud.ibm.com/catalog/services/predictive-market-scenarios">IBM Algo Predictive Market Scenarios</a> (IBM Financial Risk API)</p>
+</li>
+<li>
+<p><a href="https://cloud.ibm.com/catalog/services/simulated-instrument-analytics">IBM Algo Simulated Instrument Analytics</a> (IBM Financial Risk API)</p>
+</li>
+<li>
+<p><a href="https://cloud.ibm.com/catalog/services/natural-language-understanding">IBM Watson Natural Language Understanding</a> (IBM Watson AI API)</p>
+</li>
+<li>
+<p><a href="https://cloud.ibm.com/catalog/services/watson-assistant">IBM Watson Watson Assistant (Chatbot)</a> (IBM Watson AI API)</p>
+</li>
+<li>
+<p><a href="https://cloud.ibm.com/catalog/services/speech-to-text">IBM Watson Speech-to-Text</a> (IBM Watson AI API)</p>
+</li>
+<li>
+<p><a href="https://cloud.ibm.com/catalog/services/text-to-speech">IBM Watson Text-to-Speech</a> (IBM Watson AI API)</p>
+</li>
+</ul>
+
+
 <p>&nbsp;</p>
