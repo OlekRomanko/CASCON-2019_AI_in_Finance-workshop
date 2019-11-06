@@ -25,16 +25,16 @@ and slides that supplement examples in Python notebooks can be found at <a href=
 <p><a href="https://github.com/OlekRomanko/CASCON-2019_AI_in_Finance-workshop/blob/master/notebooks/Notebook-2_European_Option_Valuation.ipynb">Notebook-2_European_Option_Valuation.ipynb</a></p>
 </li>
 <li>
-<p><a href="https://github.com/OlekRomanko/CASCON-2019_AI_in_Finance-workshop/blob/master/notebooks/Notebook-1_Portfolio_Simulation_Modeling.ipynb">Notebook-1_Portfolio_Simulation_Modeling.ipynb</a></p>
+<p><a href="https://github.com/OlekRomanko/CASCON-2019_AI_in_Finance-workshop/blob/master/notebooks/Notebook-3_Speech2Text-NLP-Text2Speech.ipynb">Notebook-3_Speech2Text-NLP-Text2Speech.ipynb</a></p>
 </li>
 <li>
-<p><a href="https://github.com/OlekRomanko/CASCON-2019_AI_in_Finance-workshop/blob/master/notebooks/Notebook-2_European_Option_Valuation.ipynb">Notebook-2_European_Option_Valuation.ipynb</a></p>
+<p><a href="https://github.com/OlekRomanko/CASCON-2019_AI_in_Finance-workshop/blob/master/notebooks/Notebook-4_Portfolio_Optimization.ipynb">Notebook-4_Portfolio_Optimization.ipynb</a></p>
 </li>
 <li>
-<p><a href="https://github.com/OlekRomanko/CASCON-2019_AI_in_Finance-workshop/blob/master/notebooks/Notebook-1_Portfolio_Simulation_Modeling.ipynb">Notebook-1_Portfolio_Simulation_Modeling.ipynb</a></p>
+<p><a href="https://github.com/OlekRomanko/CASCON-2019_AI_in_Finance-workshop/blob/master/notebooks/Notebook-5_Cognitive_Portfolio_Optimizer.ipynb">Notebook-5_Cognitive_Portfolio_Optimizer.ipynb</a></p>
 </li>
 <li>
-<p><a href="https://github.com/OlekRomanko/CASCON-2019_AI_in_Finance-workshop/blob/master/notebooks/Notebook-2_European_Option_Valuation.ipynb">Notebook-2_European_Option_Valuation.ipynb</a></p>
+<p><a href="https://github.com/OlekRomanko/CASCON-2019_AI_in_Finance-workshop/blob/master/notebooks/Notebook-6_Cognitive_Portf_Stress_Test.ipynb">Notebook-6_Cognitive_Portf_Stress_Test.ipynb</a></p>
 </li>
 </ul>
 
